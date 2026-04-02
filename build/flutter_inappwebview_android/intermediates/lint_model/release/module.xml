@@ -1,0 +1,25 @@
+<lint-module
+    format="1"
+    dir="/Users/nickmaukan/.pub-cache/hosted/pub.dev/flutter_inappwebview_android-1.1.3/android"
+    name=":flutter_inappwebview_android"
+    type="LIBRARY"
+    maven="com.pichillilorenzo.flutter_inappwebview_android:flutter_inappwebview_android:"
+    agpVersion="8.2.0"
+    buildFolder="/Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/flutter_inappwebview_android"
+    bootClassPath="/Users/nickmaukan/Library/Android/sdk/platforms/android-34/android.jar:/Users/nickmaukan/Library/Android/sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34">
+  <lintOptions
+      disable="InvalidPackage"
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true">
+    <severities>
+      <severity
+        id="InvalidPackage"
+        severity="IGNORE" />
+    </severities>
+  </lintOptions>
+  <variant name="release"/>
+</lint-module>

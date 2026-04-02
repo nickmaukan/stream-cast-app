@@ -1,0 +1,4 @@
+#Wed Apr 01 16:48:55 ECT 2026
+base.0=/Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

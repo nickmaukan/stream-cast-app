@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.pichillilorenzo.flutter_inappwebview_android-mergeReleaseResources-28:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/nickmaukan/.gradle/caches/transforms-3/adb6896dfc908cb9768db48226263219/transformed/appcompat-1.6.1/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.pichillilorenzo.flutter_inappwebview_android-merged_res-30:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/nickmaukan/.gradle/caches/transforms-3/adb6896dfc908cb9768db48226263219/transformed/appcompat-1.6.1/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

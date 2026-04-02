@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.pichillilorenzo.flutter_inappwebview_android-merged_res-30:/xml/image_share_filepaths.xml",
+        "source": "com.pichillilorenzo.flutter_inappwebview_android-browser-1.8.0-19:/xml/image_share_filepaths.xml"
+    },
+    {
+        "merged": "com.pichillilorenzo.flutter_inappwebview_android-merged_res-30:/xml/provider_paths.xml",
+        "source": "com.pichillilorenzo.flutter_inappwebview_android-main-31:/xml/provider_paths.xml"
+    }
+]

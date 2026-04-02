@@ -1,0 +1,78 @@
+name: maukan_cast
+description: Transmite videos desde el navegador a Chromecast / Fire TV / Smart TVs
+publish_to: 'none'
+version: 2.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # State management
+  flutter_bloc: ^8.1.3
+  equatable: ^2.0.5
+
+  # Dependency injection
+  get_it: ^7.6.4
+  injectable: ^2.3.2
+
+  # Navigation
+  go_router: ^12.1.1
+
+  # Web browser
+  flutter_inappwebview: ^6.0.0
+
+  # Video player
+  video_player: ^2.8.3
+
+  # HTTP & network
+  http: ^1.2.0
+  dio: ^5.3.3
+
+  # HTML/XML parsing
+  html: ^0.15.4
+  xml: ^6.5.0
+
+  # Local database
+  sqflite: ^2.3.0
+  path: ^1.8.3
+  path_provider: ^2.1.1
+
+  # Shared preferences
+  shared_preferences: ^2.2.2
+
+  # URL launcher
+  url_launcher: ^6.2.5
+
+  # Network info
+  network_info_plus: ^5.0.3
+
+  # Permissions
+  permission_handler: ^11.1.0
+
+  # UUID
+  uuid: ^4.3.3
+
+  # JSON
+  json_annotation: ^4.8.1
+  dartz: ^0.10.1
+
+  # Notifications / foreground service
+
+  # Connectivity
+
+  # Icons
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+  build_runner: ^2.4.8
+  json_serializable: ^6.7.1
+  injectable_generator: ^2.4.1
+
+flutter:
+  uses-material-design: true

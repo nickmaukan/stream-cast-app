@@ -1,0 +1,26 @@
+<lint-module
+    format="1"
+    dir="/Users/nickmaukan/.pub-cache/hosted/pub.dev/network_info_plus-5.0.3/android"
+    name=":network_info_plus"
+    type="LIBRARY"
+    maven="dev.fluttercommunity.plus.network_info:network_info_plus:"
+    agpVersion="8.2.0"
+    buildFolder="/Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/network_info_plus"
+    bootClassPath="/Users/nickmaukan/Library/Android/sdk/platforms/android-34/android.jar:/Users/nickmaukan/Library/Android/sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      disable="InvalidPackage"
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true">
+    <severities>
+      <severity
+        id="InvalidPackage"
+        severity="IGNORE" />
+    </severities>
+  </lintOptions>
+  <variant name="release"/>
+</lint-module>

@@ -1,0 +1,556 @@
+-- Merging decision tree log ---
+application
+INJECTED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:25:5-51:19
+INJECTED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:25:5-51:19
+MERGED from [:flutter_inappwebview_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/flutter_inappwebview_android/intermediates/merged_manifest/release/AndroidManifest.xml:13:5-46:19
+MERGED from [:flutter_inappwebview_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/flutter_inappwebview_android/intermediates/merged_manifest/release/AndroidManifest.xml:13:5-46:19
+MERGED from [:url_launcher_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/nickmaukan/.gradle/caches/transforms-3/461336ec9c564f0950a988c1c0ca4017/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/nickmaukan/.gradle/caches/transforms-3/461336ec9c564f0950a988c1c0ca4017/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.2.0] /Users/nickmaukan/.gradle/caches/transforms-3/db2afc5d8a22f9d641dfb3f188bddbd3/transformed/jetified-window-1.2.0/AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.window:window:1.2.0] /Users/nickmaukan/.gradle/caches/transforms-3/db2afc5d8a22f9d641dfb3f188bddbd3/transformed/jetified-window-1.2.0/AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/nickmaukan/.gradle/caches/transforms-3/7474ef7a91e521edd6c809ac2f307d20/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/nickmaukan/.gradle/caches/transforms-3/7474ef7a91e521edd6c809ac2f307d20/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] /Users/nickmaukan/.gradle/caches/transforms-3/72cec277b86385566ece2cae065269a2/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] /Users/nickmaukan/.gradle/caches/transforms-3/72cec277b86385566ece2cae065269a2/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nickmaukan/.gradle/caches/transforms-3/de1554bcc6894d31b014b3f65b3e9215/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nickmaukan/.gradle/caches/transforms-3/de1554bcc6894d31b014b3f65b3e9215/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nickmaukan/.gradle/caches/transforms-3/073ed5b64e620c4a72e16025bbea8194/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nickmaukan/.gradle/caches/transforms-3/073ed5b64e620c4a72e16025bbea8194/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nickmaukan/.gradle/caches/transforms-3/5a6658dd46e931e936b2c7dab2b7d1e5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nickmaukan/.gradle/caches/transforms-3/5a6658dd46e931e936b2c7dab2b7d1e5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] /Users/nickmaukan/.gradle/caches/transforms-3/72cec277b86385566ece2cae065269a2/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:26:9-36
+	android:icon
+		ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:28:9-43
+	android:usesCleartextTraffic
+		ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:29:9-44
+	android:name
+		INJECTED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:27:9-42
+manifest
+ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:1:1-52:12
+INJECTED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:1:1-52:12
+INJECTED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:1:1-52:12
+INJECTED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:1:1-52:12
+MERGED from [:flutter_inappwebview_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/flutter_inappwebview_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-48:12
+MERGED from [:network_info_plus] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/network_info_plus/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-10:12
+MERGED from [:path_provider_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/path_provider_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:permission_handler_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/permission_handler_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/shared_preferences_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/sqflite_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-14:12
+MERGED from [:video_player_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/video_player_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.preference:preference:1.2.1] /Users/nickmaukan/.gradle/caches/transforms-3/6c28eb94ab692ff334110824e3a60afa/transformed/preference-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/nickmaukan/.gradle/caches/transforms-3/907ca502e7370cf7ae5171ae01478e63/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/nickmaukan/.gradle/caches/transforms-3/adb6896dfc908cb9768db48226263219/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.webkit:webkit:1.12.0] /Users/nickmaukan/.gradle/caches/transforms-3/a10d3316e714662a98361919b2b5f161/transformed/webkit-1.12.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.browser:browser:1.8.0] /Users/nickmaukan/.gradle/caches/transforms-3/b1bc046849cfe5d1866684fd435545b5/transformed/browser-1.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/7c15fa79f35f805f3421c3cda470088a/transformed/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/cfec581d1235483980986cc635595006/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/nickmaukan/.gradle/caches/transforms-3/ce88382673e89831856d7bf93f51bbf3/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media3:media3-extractor:1.4.1] /Users/nickmaukan/.gradle/caches/transforms-3/26272e7229c746f0095b1813ef522ff6/transformed/jetified-media3-extractor-1.4.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-container:1.4.1] /Users/nickmaukan/.gradle/caches/transforms-3/ae7efe663e625891d779f92d5bafe5be/transformed/jetified-media3-container-1.4.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-datasource:1.4.1] /Users/nickmaukan/.gradle/caches/transforms-3/33556523f66f192b5626c22af30df556/transformed/jetified-media3-datasource-1.4.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-decoder:1.4.1] /Users/nickmaukan/.gradle/caches/transforms-3/872458abbe1afced129992afa0fbf173/transformed/jetified-media3-decoder-1.4.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-database:1.4.1] /Users/nickmaukan/.gradle/caches/transforms-3/d6c5e29e1c4f2162bd4e5d229ecf3b4c/transformed/jetified-media3-database-1.4.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-common:1.4.1] /Users/nickmaukan/.gradle/caches/transforms-3/e066df2fb8f14b51a599b1feda74eb16/transformed/jetified-media3-common-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media3:media3-exoplayer-hls:1.4.1] /Users/nickmaukan/.gradle/caches/transforms-3/0d39ec5819517c729592816f23f50f26/transformed/jetified-media3-exoplayer-hls-1.4.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-exoplayer-dash:1.4.1] /Users/nickmaukan/.gradle/caches/transforms-3/dfe514060b81a75d94128a33f4870fa8/transformed/jetified-media3-exoplayer-dash-1.4.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-exoplayer-rtsp:1.4.1] /Users/nickmaukan/.gradle/caches/transforms-3/83326a43c09c18aa1a6cc16d4ae1a148/transformed/jetified-media3-exoplayer-rtsp-1.4.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-exoplayer-smoothstreaming:1.4.1] /Users/nickmaukan/.gradle/caches/transforms-3/88e5a806c08abb731f5a6774e5fd44ee/transformed/jetified-media3-exoplayer-smoothstreaming-1.4.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-exoplayer:1.4.1] /Users/nickmaukan/.gradle/caches/transforms-3/78788c2fbee3e82fef603ff363cb9ae6/transformed/jetified-media3-exoplayer-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/e68fb13421c0ee460f27b86a0b844b06/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/nickmaukan/.gradle/caches/transforms-3/3dc0ca519e30d2eaecefc34230546b10/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/nickmaukan/.gradle/caches/transforms-3/461336ec9c564f0950a988c1c0ca4017/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/nickmaukan/.gradle/caches/transforms-3/84ce0c2857688a00f9dfec43d3e1d45e/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.2.0] /Users/nickmaukan/.gradle/caches/transforms-3/db2afc5d8a22f9d641dfb3f188bddbd3/transformed/jetified-window-1.2.0/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.window:window-java:1.2.0] /Users/nickmaukan/.gradle/caches/transforms-3/f7ea2e485b988702ff9977fd8b50ddab/transformed/jetified-window-java-1.2.0/AndroidManifest.xml:17:1-21:12
+MERGED from [androidx.fragment:fragment-ktx:1.7.1] /Users/nickmaukan/.gradle/caches/transforms-3/3b5d9a09337d4002c0a1c760a44a8cd1/transformed/jetified-fragment-ktx-1.7.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.7.1] /Users/nickmaukan/.gradle/caches/transforms-3/4114474b18de9c41106568faea892679/transformed/fragment-1.7.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.8.1] /Users/nickmaukan/.gradle/caches/transforms-3/20047ab51b4914211ef18046cc55ba21/transformed/jetified-activity-ktx-1.8.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.8.1] /Users/nickmaukan/.gradle/caches/transforms-3/48a0582e768ebf0201703489f31fe5f2/transformed/jetified-activity-1.8.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/98fc55d8bbb51cebd4c7b554a81a7973/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/8f2e16b3fa9c3dbb889689503d88160d/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /Users/nickmaukan/.gradle/caches/transforms-3/6f96085dda60afbc73688ab8ac992c23/transformed/jetified-lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/nickmaukan/.gradle/caches/transforms-3/657285101f73dc1a1d96b78a67b2d56c/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/nickmaukan/.gradle/caches/transforms-3/b664d90ca4b62adce84e4a3a76ffc3e8/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /Users/nickmaukan/.gradle/caches/transforms-3/43808400437c9b3196abbcb49d0a4e02/transformed/jetified-lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/nickmaukan/.gradle/caches/transforms-3/2485c574c58758be3f0aafc8c229c75e/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/nickmaukan/.gradle/caches/transforms-3/9e75a64d57c7fb1d9ec360f02ba2b8c3/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/nickmaukan/.gradle/caches/transforms-3/7474ef7a91e521edd6c809ac2f307d20/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/nickmaukan/.gradle/caches/transforms-3/1037447f90bebeae9ae3616da2d4c62a/transformed/jetified-savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/nickmaukan/.gradle/caches/transforms-3/61fac0d5c3ed6f203541c829a2944ac4/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/nickmaukan/.gradle/caches/transforms-3/e7f1d8b8edd37f13b75a92a03e170050/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/nickmaukan/.gradle/caches/transforms-3/e6d938f9afc8719c01c4d1c26d8084bf/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/nickmaukan/.gradle/caches/transforms-3/3edff44991b19a4a240f69f3f3cc8e79/transformed/jetified-core-ktx-1.13.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nickmaukan/.gradle/caches/transforms-3/986e577c7fdeb47bf1e9ab1cc0a9a060/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nickmaukan/.gradle/caches/transforms-3/61aa31e56b027d110384805693f3442b/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/63bec025450d9da8eea14c5616c344fb/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/bd9f644e057d24494c7a7aeb1d900986/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/nickmaukan/.gradle/caches/transforms-3/c213dff232e1b1245a135ea1ac0c39b8/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] /Users/nickmaukan/.gradle/caches/transforms-3/d1580a468aa3f23158455a0d677bad41/transformed/transition-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/6f2a68a9e9f450700c97a81816a6b2f2/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.13.1] /Users/nickmaukan/.gradle/caches/transforms-3/72cec277b86385566ece2cae065269a2/transformed/core-1.13.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/nickmaukan/.gradle/caches/transforms-3/33e0b3db5045c0ee268f25a17642c6cc/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/b2556fcbbb7e61340829d167ec805ba2/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/b142616e0e5911402ca76e93937fb3de/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nickmaukan/.gradle/caches/transforms-3/de1554bcc6894d31b014b3f65b3e9215/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nickmaukan/.gradle/caches/transforms-3/073ed5b64e620c4a72e16025bbea8194/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/nickmaukan/.gradle/caches/transforms-3/7e13d26899fbb899f122f3953e7836dc/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.datastore:datastore-core-android:1.1.3] /Users/nickmaukan/.gradle/caches/transforms-3/9b56dc02a55c1cfe4921074f14e02514/transformed/jetified-datastore-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.3] /Users/nickmaukan/.gradle/caches/transforms-3/61f0f0a87625198a44e9053b7575f6d7/transformed/jetified-datastore-preferences-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.datastore:datastore-android:1.1.3] /Users/nickmaukan/.gradle/caches/transforms-3/d805385a98947fb6981e47dd4fb34566/transformed/jetified-datastore-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nickmaukan/.gradle/caches/transforms-3/5a6658dd46e931e936b2c7dab2b7d1e5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/nickmaukan/.gradle/caches/transforms-3/fbde115e3f0b4ab610a757ba0b144d82/transformed/exifinterface-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/nickmaukan/.gradle/caches/transforms-3/0363847df3da86c7dacba4ab9a969c6d/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/6ca4029bc39d61c6a51c71e4affbed8c/transformed/jetified-core-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/960ed48bd34dd7b5097cba09eaafaa73/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/b70f36e9aabe6ea707e99a8877ed4e52/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/9389bba76ed0602105ab025bd40a56e6/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/nickmaukan/.gradle/caches/transforms-3/8630d042aa2b1b3bc8912c005d89d0c8/transformed/multidex-2.0.1/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:5:5-78
+MERGED from [:network_info_plus] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/network_info_plus/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-79
+MERGED from [:network_info_plus] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/network_info_plus/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-79
+MERGED from [androidx.media3:media3-common:1.4.1] /Users/nickmaukan/.gradle/caches/transforms-3/e066df2fb8f14b51a599b1feda74eb16/transformed/jetified-media3-common-1.4.1/AndroidManifest.xml:22:5-79
+MERGED from [androidx.media3:media3-common:1.4.1] /Users/nickmaukan/.gradle/caches/transforms-3/e066df2fb8f14b51a599b1feda74eb16/transformed/jetified-media3-common-1.4.1/AndroidManifest.xml:22:5-79
+MERGED from [androidx.media3:media3-exoplayer:1.4.1] /Users/nickmaukan/.gradle/caches/transforms-3/78788c2fbee3e82fef603ff363cb9ae6/transformed/jetified-media3-exoplayer-1.4.1/AndroidManifest.xml:22:5-79
+MERGED from [androidx.media3:media3-exoplayer:1.4.1] /Users/nickmaukan/.gradle/caches/transforms-3/78788c2fbee3e82fef603ff363cb9ae6/transformed/jetified-media3-exoplayer-1.4.1/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:6:5-75
+MERGED from [:network_info_plus] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/network_info_plus/intermediates/merged_manifest/release/AndroidManifest.xml:8:5-76
+MERGED from [:network_info_plus] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/network_info_plus/intermediates/merged_manifest/release/AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:6:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:7:5-75
+	android:name
+		ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:7:22-73
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:10:5-85
+	android:name
+		ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:10:22-83
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:13:5-78
+	android:name
+		ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:14:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:17:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK
+ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:18:5-91
+	android:name
+		ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:18:22-89
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:19:5-76
+	android:name
+		ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:19:22-74
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:20:5-67
+	android:name
+		ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:20:22-65
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:23:5-77
+	android:name
+		ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:23:22-75
+activity#com.maukan.cast.MainActivity
+ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:31:9-46:20
+	android:launchMode
+		ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:34:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:37:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:38:13-55
+	android:exported
+		ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:33:13-36
+	android:configChanges
+		ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:36:13-138
+	android:theme
+		ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:35:13-47
+	android:name
+		ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:32:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:39:13-41:56
+	android:resource
+		ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:41:17-54
+	android:name
+		ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:40:17-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:42:13-45:29
+action#android.intent.action.MAIN
+ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:43:17-68
+	android:name
+		ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:44:17-76
+	android:name
+		ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:44:27-74
+meta-data#flutterEmbedding
+ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:48:9-50:32
+	android:value
+		ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:50:13-30
+	android:name
+		ADDED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml:49:13-44
+uses-sdk
+INJECTED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml
+MERGED from [:flutter_inappwebview_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/flutter_inappwebview_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_inappwebview_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/flutter_inappwebview_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:network_info_plus] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/network_info_plus/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:network_info_plus] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/network_info_plus/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/path_provider_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/path_provider_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/permission_handler_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/permission_handler_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/shared_preferences_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/shared_preferences_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/sqflite_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/sqflite_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:video_player_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/video_player_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:video_player_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/video_player_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.preference:preference:1.2.1] /Users/nickmaukan/.gradle/caches/transforms-3/6c28eb94ab692ff334110824e3a60afa/transformed/preference-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.2.1] /Users/nickmaukan/.gradle/caches/transforms-3/6c28eb94ab692ff334110824e3a60afa/transformed/preference-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/nickmaukan/.gradle/caches/transforms-3/907ca502e7370cf7ae5171ae01478e63/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/nickmaukan/.gradle/caches/transforms-3/907ca502e7370cf7ae5171ae01478e63/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/nickmaukan/.gradle/caches/transforms-3/adb6896dfc908cb9768db48226263219/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/nickmaukan/.gradle/caches/transforms-3/adb6896dfc908cb9768db48226263219/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.12.0] /Users/nickmaukan/.gradle/caches/transforms-3/a10d3316e714662a98361919b2b5f161/transformed/webkit-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.webkit:webkit:1.12.0] /Users/nickmaukan/.gradle/caches/transforms-3/a10d3316e714662a98361919b2b5f161/transformed/webkit-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.browser:browser:1.8.0] /Users/nickmaukan/.gradle/caches/transforms-3/b1bc046849cfe5d1866684fd435545b5/transformed/browser-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.browser:browser:1.8.0] /Users/nickmaukan/.gradle/caches/transforms-3/b1bc046849cfe5d1866684fd435545b5/transformed/browser-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/7c15fa79f35f805f3421c3cda470088a/transformed/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/7c15fa79f35f805f3421c3cda470088a/transformed/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/cfec581d1235483980986cc635595006/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/cfec581d1235483980986cc635595006/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/nickmaukan/.gradle/caches/transforms-3/ce88382673e89831856d7bf93f51bbf3/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/nickmaukan/.gradle/caches/transforms-3/ce88382673e89831856d7bf93f51bbf3/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media3:media3-extractor:1.4.1] /Users/nickmaukan/.gradle/caches/transforms-3/26272e7229c746f0095b1813ef522ff6/transformed/jetified-media3-extractor-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-extractor:1.4.1] /Users/nickmaukan/.gradle/caches/transforms-3/26272e7229c746f0095b1813ef522ff6/transformed/jetified-media3-extractor-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-container:1.4.1] /Users/nickmaukan/.gradle/caches/transforms-3/ae7efe663e625891d779f92d5bafe5be/transformed/jetified-media3-container-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-container:1.4.1] /Users/nickmaukan/.gradle/caches/transforms-3/ae7efe663e625891d779f92d5bafe5be/transformed/jetified-media3-container-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-datasource:1.4.1] /Users/nickmaukan/.gradle/caches/transforms-3/33556523f66f192b5626c22af30df556/transformed/jetified-media3-datasource-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-datasource:1.4.1] /Users/nickmaukan/.gradle/caches/transforms-3/33556523f66f192b5626c22af30df556/transformed/jetified-media3-datasource-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-decoder:1.4.1] /Users/nickmaukan/.gradle/caches/transforms-3/872458abbe1afced129992afa0fbf173/transformed/jetified-media3-decoder-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-decoder:1.4.1] /Users/nickmaukan/.gradle/caches/transforms-3/872458abbe1afced129992afa0fbf173/transformed/jetified-media3-decoder-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-database:1.4.1] /Users/nickmaukan/.gradle/caches/transforms-3/d6c5e29e1c4f2162bd4e5d229ecf3b4c/transformed/jetified-media3-database-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-database:1.4.1] /Users/nickmaukan/.gradle/caches/transforms-3/d6c5e29e1c4f2162bd4e5d229ecf3b4c/transformed/jetified-media3-database-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-common:1.4.1] /Users/nickmaukan/.gradle/caches/transforms-3/e066df2fb8f14b51a599b1feda74eb16/transformed/jetified-media3-common-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-common:1.4.1] /Users/nickmaukan/.gradle/caches/transforms-3/e066df2fb8f14b51a599b1feda74eb16/transformed/jetified-media3-common-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer-hls:1.4.1] /Users/nickmaukan/.gradle/caches/transforms-3/0d39ec5819517c729592816f23f50f26/transformed/jetified-media3-exoplayer-hls-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer-hls:1.4.1] /Users/nickmaukan/.gradle/caches/transforms-3/0d39ec5819517c729592816f23f50f26/transformed/jetified-media3-exoplayer-hls-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer-dash:1.4.1] /Users/nickmaukan/.gradle/caches/transforms-3/dfe514060b81a75d94128a33f4870fa8/transformed/jetified-media3-exoplayer-dash-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer-dash:1.4.1] /Users/nickmaukan/.gradle/caches/transforms-3/dfe514060b81a75d94128a33f4870fa8/transformed/jetified-media3-exoplayer-dash-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer-rtsp:1.4.1] /Users/nickmaukan/.gradle/caches/transforms-3/83326a43c09c18aa1a6cc16d4ae1a148/transformed/jetified-media3-exoplayer-rtsp-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer-rtsp:1.4.1] /Users/nickmaukan/.gradle/caches/transforms-3/83326a43c09c18aa1a6cc16d4ae1a148/transformed/jetified-media3-exoplayer-rtsp-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer-smoothstreaming:1.4.1] /Users/nickmaukan/.gradle/caches/transforms-3/88e5a806c08abb731f5a6774e5fd44ee/transformed/jetified-media3-exoplayer-smoothstreaming-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer-smoothstreaming:1.4.1] /Users/nickmaukan/.gradle/caches/transforms-3/88e5a806c08abb731f5a6774e5fd44ee/transformed/jetified-media3-exoplayer-smoothstreaming-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer:1.4.1] /Users/nickmaukan/.gradle/caches/transforms-3/78788c2fbee3e82fef603ff363cb9ae6/transformed/jetified-media3-exoplayer-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer:1.4.1] /Users/nickmaukan/.gradle/caches/transforms-3/78788c2fbee3e82fef603ff363cb9ae6/transformed/jetified-media3-exoplayer-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/e68fb13421c0ee460f27b86a0b844b06/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/e68fb13421c0ee460f27b86a0b844b06/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/nickmaukan/.gradle/caches/transforms-3/3dc0ca519e30d2eaecefc34230546b10/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/nickmaukan/.gradle/caches/transforms-3/3dc0ca519e30d2eaecefc34230546b10/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/nickmaukan/.gradle/caches/transforms-3/461336ec9c564f0950a988c1c0ca4017/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/nickmaukan/.gradle/caches/transforms-3/461336ec9c564f0950a988c1c0ca4017/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/nickmaukan/.gradle/caches/transforms-3/84ce0c2857688a00f9dfec43d3e1d45e/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/nickmaukan/.gradle/caches/transforms-3/84ce0c2857688a00f9dfec43d3e1d45e/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.2.0] /Users/nickmaukan/.gradle/caches/transforms-3/db2afc5d8a22f9d641dfb3f188bddbd3/transformed/jetified-window-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.2.0] /Users/nickmaukan/.gradle/caches/transforms-3/db2afc5d8a22f9d641dfb3f188bddbd3/transformed/jetified-window-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window-java:1.2.0] /Users/nickmaukan/.gradle/caches/transforms-3/f7ea2e485b988702ff9977fd8b50ddab/transformed/jetified-window-java-1.2.0/AndroidManifest.xml:19:5-44
+MERGED from [androidx.window:window-java:1.2.0] /Users/nickmaukan/.gradle/caches/transforms-3/f7ea2e485b988702ff9977fd8b50ddab/transformed/jetified-window-java-1.2.0/AndroidManifest.xml:19:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.7.1] /Users/nickmaukan/.gradle/caches/transforms-3/3b5d9a09337d4002c0a1c760a44a8cd1/transformed/jetified-fragment-ktx-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.7.1] /Users/nickmaukan/.gradle/caches/transforms-3/3b5d9a09337d4002c0a1c760a44a8cd1/transformed/jetified-fragment-ktx-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.7.1] /Users/nickmaukan/.gradle/caches/transforms-3/4114474b18de9c41106568faea892679/transformed/fragment-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.7.1] /Users/nickmaukan/.gradle/caches/transforms-3/4114474b18de9c41106568faea892679/transformed/fragment-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.1] /Users/nickmaukan/.gradle/caches/transforms-3/20047ab51b4914211ef18046cc55ba21/transformed/jetified-activity-ktx-1.8.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.1] /Users/nickmaukan/.gradle/caches/transforms-3/20047ab51b4914211ef18046cc55ba21/transformed/jetified-activity-ktx-1.8.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.8.1] /Users/nickmaukan/.gradle/caches/transforms-3/48a0582e768ebf0201703489f31fe5f2/transformed/jetified-activity-1.8.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.1] /Users/nickmaukan/.gradle/caches/transforms-3/48a0582e768ebf0201703489f31fe5f2/transformed/jetified-activity-1.8.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/98fc55d8bbb51cebd4c7b554a81a7973/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/98fc55d8bbb51cebd4c7b554a81a7973/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/8f2e16b3fa9c3dbb889689503d88160d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/8f2e16b3fa9c3dbb889689503d88160d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /Users/nickmaukan/.gradle/caches/transforms-3/6f96085dda60afbc73688ab8ac992c23/transformed/jetified-lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /Users/nickmaukan/.gradle/caches/transforms-3/6f96085dda60afbc73688ab8ac992c23/transformed/jetified-lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/nickmaukan/.gradle/caches/transforms-3/657285101f73dc1a1d96b78a67b2d56c/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/nickmaukan/.gradle/caches/transforms-3/657285101f73dc1a1d96b78a67b2d56c/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/nickmaukan/.gradle/caches/transforms-3/b664d90ca4b62adce84e4a3a76ffc3e8/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/nickmaukan/.gradle/caches/transforms-3/b664d90ca4b62adce84e4a3a76ffc3e8/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /Users/nickmaukan/.gradle/caches/transforms-3/43808400437c9b3196abbcb49d0a4e02/transformed/jetified-lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /Users/nickmaukan/.gradle/caches/transforms-3/43808400437c9b3196abbcb49d0a4e02/transformed/jetified-lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/nickmaukan/.gradle/caches/transforms-3/2485c574c58758be3f0aafc8c229c75e/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/nickmaukan/.gradle/caches/transforms-3/2485c574c58758be3f0aafc8c229c75e/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/nickmaukan/.gradle/caches/transforms-3/9e75a64d57c7fb1d9ec360f02ba2b8c3/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/nickmaukan/.gradle/caches/transforms-3/9e75a64d57c7fb1d9ec360f02ba2b8c3/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/nickmaukan/.gradle/caches/transforms-3/7474ef7a91e521edd6c809ac2f307d20/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/nickmaukan/.gradle/caches/transforms-3/7474ef7a91e521edd6c809ac2f307d20/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/nickmaukan/.gradle/caches/transforms-3/1037447f90bebeae9ae3616da2d4c62a/transformed/jetified-savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/nickmaukan/.gradle/caches/transforms-3/1037447f90bebeae9ae3616da2d4c62a/transformed/jetified-savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/nickmaukan/.gradle/caches/transforms-3/61fac0d5c3ed6f203541c829a2944ac4/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/nickmaukan/.gradle/caches/transforms-3/61fac0d5c3ed6f203541c829a2944ac4/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/nickmaukan/.gradle/caches/transforms-3/e7f1d8b8edd37f13b75a92a03e170050/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/nickmaukan/.gradle/caches/transforms-3/e7f1d8b8edd37f13b75a92a03e170050/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/nickmaukan/.gradle/caches/transforms-3/e6d938f9afc8719c01c4d1c26d8084bf/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/nickmaukan/.gradle/caches/transforms-3/e6d938f9afc8719c01c4d1c26d8084bf/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/nickmaukan/.gradle/caches/transforms-3/3edff44991b19a4a240f69f3f3cc8e79/transformed/jetified-core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/nickmaukan/.gradle/caches/transforms-3/3edff44991b19a4a240f69f3f3cc8e79/transformed/jetified-core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nickmaukan/.gradle/caches/transforms-3/986e577c7fdeb47bf1e9ab1cc0a9a060/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nickmaukan/.gradle/caches/transforms-3/986e577c7fdeb47bf1e9ab1cc0a9a060/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nickmaukan/.gradle/caches/transforms-3/61aa31e56b027d110384805693f3442b/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nickmaukan/.gradle/caches/transforms-3/61aa31e56b027d110384805693f3442b/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/63bec025450d9da8eea14c5616c344fb/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/63bec025450d9da8eea14c5616c344fb/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/bd9f644e057d24494c7a7aeb1d900986/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/bd9f644e057d24494c7a7aeb1d900986/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/nickmaukan/.gradle/caches/transforms-3/c213dff232e1b1245a135ea1ac0c39b8/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/nickmaukan/.gradle/caches/transforms-3/c213dff232e1b1245a135ea1ac0c39b8/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /Users/nickmaukan/.gradle/caches/transforms-3/d1580a468aa3f23158455a0d677bad41/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /Users/nickmaukan/.gradle/caches/transforms-3/d1580a468aa3f23158455a0d677bad41/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/6f2a68a9e9f450700c97a81816a6b2f2/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/6f2a68a9e9f450700c97a81816a6b2f2/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/nickmaukan/.gradle/caches/transforms-3/72cec277b86385566ece2cae065269a2/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/nickmaukan/.gradle/caches/transforms-3/72cec277b86385566ece2cae065269a2/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/nickmaukan/.gradle/caches/transforms-3/33e0b3db5045c0ee268f25a17642c6cc/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/nickmaukan/.gradle/caches/transforms-3/33e0b3db5045c0ee268f25a17642c6cc/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/b2556fcbbb7e61340829d167ec805ba2/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/b2556fcbbb7e61340829d167ec805ba2/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/b142616e0e5911402ca76e93937fb3de/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/b142616e0e5911402ca76e93937fb3de/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nickmaukan/.gradle/caches/transforms-3/de1554bcc6894d31b014b3f65b3e9215/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nickmaukan/.gradle/caches/transforms-3/de1554bcc6894d31b014b3f65b3e9215/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nickmaukan/.gradle/caches/transforms-3/073ed5b64e620c4a72e16025bbea8194/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nickmaukan/.gradle/caches/transforms-3/073ed5b64e620c4a72e16025bbea8194/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/nickmaukan/.gradle/caches/transforms-3/7e13d26899fbb899f122f3953e7836dc/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/nickmaukan/.gradle/caches/transforms-3/7e13d26899fbb899f122f3953e7836dc/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.1.3] /Users/nickmaukan/.gradle/caches/transforms-3/9b56dc02a55c1cfe4921074f14e02514/transformed/jetified-datastore-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.1.3] /Users/nickmaukan/.gradle/caches/transforms-3/9b56dc02a55c1cfe4921074f14e02514/transformed/jetified-datastore-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.3] /Users/nickmaukan/.gradle/caches/transforms-3/61f0f0a87625198a44e9053b7575f6d7/transformed/jetified-datastore-preferences-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.3] /Users/nickmaukan/.gradle/caches/transforms-3/61f0f0a87625198a44e9053b7575f6d7/transformed/jetified-datastore-preferences-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-android:1.1.3] /Users/nickmaukan/.gradle/caches/transforms-3/d805385a98947fb6981e47dd4fb34566/transformed/jetified-datastore-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-android:1.1.3] /Users/nickmaukan/.gradle/caches/transforms-3/d805385a98947fb6981e47dd4fb34566/transformed/jetified-datastore-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nickmaukan/.gradle/caches/transforms-3/5a6658dd46e931e936b2c7dab2b7d1e5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nickmaukan/.gradle/caches/transforms-3/5a6658dd46e931e936b2c7dab2b7d1e5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/nickmaukan/.gradle/caches/transforms-3/fbde115e3f0b4ab610a757ba0b144d82/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/nickmaukan/.gradle/caches/transforms-3/fbde115e3f0b4ab610a757ba0b144d82/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/nickmaukan/.gradle/caches/transforms-3/0363847df3da86c7dacba4ab9a969c6d/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/nickmaukan/.gradle/caches/transforms-3/0363847df3da86c7dacba4ab9a969c6d/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/6ca4029bc39d61c6a51c71e4affbed8c/transformed/jetified-core-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/6ca4029bc39d61c6a51c71e4affbed8c/transformed/jetified-core-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/960ed48bd34dd7b5097cba09eaafaa73/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/960ed48bd34dd7b5097cba09eaafaa73/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/b70f36e9aabe6ea707e99a8877ed4e52/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/b70f36e9aabe6ea707e99a8877ed4e52/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/9389bba76ed0602105ab025bd40a56e6/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/nickmaukan/.gradle/caches/transforms-3/9389bba76ed0602105ab025bd40a56e6/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/nickmaukan/.gradle/caches/transforms-3/8630d042aa2b1b3bc8912c005d89d0c8/transformed/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/nickmaukan/.gradle/caches/transforms-3/8630d042aa2b1b3bc8912c005d89d0c8/transformed/multidex-2.0.1/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/nickmaukan/.openclaw/workspace/stream_cast_app/android/app/src/main/AndroidManifest.xml
+queries
+ADDED from [:flutter_inappwebview_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/flutter_inappwebview_android/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-11:15
+intent#action:name:android.support.customtabs.action.CustomTabsService
+ADDED from [:flutter_inappwebview_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/flutter_inappwebview_android/intermediates/merged_manifest/release/AndroidManifest.xml:8:9-10:18
+action#android.support.customtabs.action.CustomTabsService
+ADDED from [:flutter_inappwebview_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/flutter_inappwebview_android/intermediates/merged_manifest/release/AndroidManifest.xml:9:13-90
+	android:name
+		ADDED from [:flutter_inappwebview_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/flutter_inappwebview_android/intermediates/merged_manifest/release/AndroidManifest.xml:9:21-87
+activity#com.pichillilorenzo.flutter_inappwebview_android.in_app_browser.InAppBrowserActivity
+ADDED from [:flutter_inappwebview_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/flutter_inappwebview_android/intermediates/merged_manifest/release/AndroidManifest.xml:14:9-18:47
+	android:exported
+		ADDED from [:flutter_inappwebview_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/flutter_inappwebview_android/intermediates/merged_manifest/release/AndroidManifest.xml:17:13-37
+	android:configChanges
+		ADDED from [:flutter_inappwebview_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/flutter_inappwebview_android/intermediates/merged_manifest/release/AndroidManifest.xml:16:13-137
+	android:theme
+		ADDED from [:flutter_inappwebview_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/flutter_inappwebview_android/intermediates/merged_manifest/release/AndroidManifest.xml:18:13-44
+	android:name
+		ADDED from [:flutter_inappwebview_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/flutter_inappwebview_android/intermediates/merged_manifest/release/AndroidManifest.xml:15:13-112
+activity#com.pichillilorenzo.flutter_inappwebview_android.chrome_custom_tabs.ChromeCustomTabsActivity
+ADDED from [:flutter_inappwebview_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/flutter_inappwebview_android/intermediates/merged_manifest/release/AndroidManifest.xml:19:9-22:55
+	android:exported
+		ADDED from [:flutter_inappwebview_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/flutter_inappwebview_android/intermediates/merged_manifest/release/AndroidManifest.xml:21:13-37
+	android:theme
+		ADDED from [:flutter_inappwebview_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/flutter_inappwebview_android/intermediates/merged_manifest/release/AndroidManifest.xml:22:13-52
+	android:name
+		ADDED from [:flutter_inappwebview_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/flutter_inappwebview_android/intermediates/merged_manifest/release/AndroidManifest.xml:20:13-120
+activity#com.pichillilorenzo.flutter_inappwebview_android.chrome_custom_tabs.TrustedWebActivity
+ADDED from [:flutter_inappwebview_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/flutter_inappwebview_android/intermediates/merged_manifest/release/AndroidManifest.xml:23:9-26:55
+	android:exported
+		ADDED from [:flutter_inappwebview_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/flutter_inappwebview_android/intermediates/merged_manifest/release/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [:flutter_inappwebview_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/flutter_inappwebview_android/intermediates/merged_manifest/release/AndroidManifest.xml:26:13-52
+	android:name
+		ADDED from [:flutter_inappwebview_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/flutter_inappwebview_android/intermediates/merged_manifest/release/AndroidManifest.xml:24:13-114
+activity#com.pichillilorenzo.flutter_inappwebview_android.chrome_custom_tabs.ChromeCustomTabsActivitySingleInstance
+ADDED from [:flutter_inappwebview_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/flutter_inappwebview_android/intermediates/merged_manifest/release/AndroidManifest.xml:27:9-31:55
+	android:launchMode
+		ADDED from [:flutter_inappwebview_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/flutter_inappwebview_android/intermediates/merged_manifest/release/AndroidManifest.xml:30:13-48
+	android:exported
+		ADDED from [:flutter_inappwebview_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/flutter_inappwebview_android/intermediates/merged_manifest/release/AndroidManifest.xml:29:13-37
+	android:theme
+		ADDED from [:flutter_inappwebview_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/flutter_inappwebview_android/intermediates/merged_manifest/release/AndroidManifest.xml:31:13-52
+	android:name
+		ADDED from [:flutter_inappwebview_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/flutter_inappwebview_android/intermediates/merged_manifest/release/AndroidManifest.xml:28:13-134
+activity#com.pichillilorenzo.flutter_inappwebview_android.chrome_custom_tabs.TrustedWebActivitySingleInstance
+ADDED from [:flutter_inappwebview_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/flutter_inappwebview_android/intermediates/merged_manifest/release/AndroidManifest.xml:32:9-36:55
+	android:launchMode
+		ADDED from [:flutter_inappwebview_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/flutter_inappwebview_android/intermediates/merged_manifest/release/AndroidManifest.xml:35:13-48
+	android:exported
+		ADDED from [:flutter_inappwebview_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/flutter_inappwebview_android/intermediates/merged_manifest/release/AndroidManifest.xml:34:13-37
+	android:theme
+		ADDED from [:flutter_inappwebview_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/flutter_inappwebview_android/intermediates/merged_manifest/release/AndroidManifest.xml:36:13-52
+	android:name
+		ADDED from [:flutter_inappwebview_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/flutter_inappwebview_android/intermediates/merged_manifest/release/AndroidManifest.xml:33:13-128
+receiver#com.pichillilorenzo.flutter_inappwebview_android.chrome_custom_tabs.ActionBroadcastReceiver
+ADDED from [:flutter_inappwebview_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/flutter_inappwebview_android/intermediates/merged_manifest/release/AndroidManifest.xml:38:9-41:40
+	android:enabled
+		ADDED from [:flutter_inappwebview_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/flutter_inappwebview_android/intermediates/merged_manifest/release/AndroidManifest.xml:40:13-35
+	android:exported
+		ADDED from [:flutter_inappwebview_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/flutter_inappwebview_android/intermediates/merged_manifest/release/AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [:flutter_inappwebview_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/flutter_inappwebview_android/intermediates/merged_manifest/release/AndroidManifest.xml:39:13-119
+meta-data#io.flutter.embedded_views_preview
+ADDED from [:flutter_inappwebview_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/flutter_inappwebview_android/intermediates/merged_manifest/release/AndroidManifest.xml:43:9-45:36
+	android:value
+		ADDED from [:flutter_inappwebview_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/flutter_inappwebview_android/intermediates/merged_manifest/release/AndroidManifest.xml:45:13-33
+	android:name
+		ADDED from [:flutter_inappwebview_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/flutter_inappwebview_android/intermediates/merged_manifest/release/AndroidManifest.xml:44:13-61
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher_android] /Users/nickmaukan/.openclaw/workspace/stream_cast_app/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:9:13-74
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/nickmaukan/.gradle/caches/transforms-3/461336ec9c564f0950a988c1c0ca4017/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/nickmaukan/.gradle/caches/transforms-3/7474ef7a91e521edd6c809ac2f307d20/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/nickmaukan/.gradle/caches/transforms-3/7474ef7a91e521edd6c809ac2f307d20/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nickmaukan/.gradle/caches/transforms-3/de1554bcc6894d31b014b3f65b3e9215/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nickmaukan/.gradle/caches/transforms-3/de1554bcc6894d31b014b3f65b3e9215/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nickmaukan/.gradle/caches/transforms-3/073ed5b64e620c4a72e16025bbea8194/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nickmaukan/.gradle/caches/transforms-3/073ed5b64e620c4a72e16025bbea8194/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/nickmaukan/.gradle/caches/transforms-3/461336ec9c564f0950a988c1c0ca4017/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/nickmaukan/.gradle/caches/transforms-3/461336ec9c564f0950a988c1c0ca4017/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/nickmaukan/.gradle/caches/transforms-3/461336ec9c564f0950a988c1c0ca4017/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/nickmaukan/.gradle/caches/transforms-3/461336ec9c564f0950a988c1c0ca4017/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/nickmaukan/.gradle/caches/transforms-3/461336ec9c564f0950a988c1c0ca4017/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/nickmaukan/.gradle/caches/transforms-3/461336ec9c564f0950a988c1c0ca4017/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/nickmaukan/.gradle/caches/transforms-3/461336ec9c564f0950a988c1c0ca4017/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.2.0] /Users/nickmaukan/.gradle/caches/transforms-3/db2afc5d8a22f9d641dfb3f188bddbd3/transformed/jetified-window-1.2.0/AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.window:window:1.2.0] /Users/nickmaukan/.gradle/caches/transforms-3/db2afc5d8a22f9d641dfb3f188bddbd3/transformed/jetified-window-1.2.0/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.window:window:1.2.0] /Users/nickmaukan/.gradle/caches/transforms-3/db2afc5d8a22f9d641dfb3f188bddbd3/transformed/jetified-window-1.2.0/AndroidManifest.xml:24:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.2.0] /Users/nickmaukan/.gradle/caches/transforms-3/db2afc5d8a22f9d641dfb3f188bddbd3/transformed/jetified-window-1.2.0/AndroidManifest.xml:26:9-28:40
+	android:required
+		ADDED from [androidx.window:window:1.2.0] /Users/nickmaukan/.gradle/caches/transforms-3/db2afc5d8a22f9d641dfb3f188bddbd3/transformed/jetified-window-1.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.window:window:1.2.0] /Users/nickmaukan/.gradle/caches/transforms-3/db2afc5d8a22f9d641dfb3f188bddbd3/transformed/jetified-window-1.2.0/AndroidManifest.xml:27:13-51
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/nickmaukan/.gradle/caches/transforms-3/7474ef7a91e521edd6c809ac2f307d20/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/nickmaukan/.gradle/caches/transforms-3/7474ef7a91e521edd6c809ac2f307d20/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/nickmaukan/.gradle/caches/transforms-3/7474ef7a91e521edd6c809ac2f307d20/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/nickmaukan/.gradle/caches/transforms-3/72cec277b86385566ece2cae065269a2/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/nickmaukan/.gradle/caches/transforms-3/72cec277b86385566ece2cae065269a2/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/nickmaukan/.gradle/caches/transforms-3/72cec277b86385566ece2cae065269a2/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+permission#com.maukan.cast.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/nickmaukan/.gradle/caches/transforms-3/72cec277b86385566ece2cae065269a2/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/nickmaukan/.gradle/caches/transforms-3/72cec277b86385566ece2cae065269a2/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/nickmaukan/.gradle/caches/transforms-3/72cec277b86385566ece2cae065269a2/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/nickmaukan/.gradle/caches/transforms-3/72cec277b86385566ece2cae065269a2/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/nickmaukan/.gradle/caches/transforms-3/72cec277b86385566ece2cae065269a2/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+uses-permission#com.maukan.cast.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/nickmaukan/.gradle/caches/transforms-3/72cec277b86385566ece2cae065269a2/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/nickmaukan/.gradle/caches/transforms-3/72cec277b86385566ece2cae065269a2/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nickmaukan/.gradle/caches/transforms-3/de1554bcc6894d31b014b3f65b3e9215/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nickmaukan/.gradle/caches/transforms-3/de1554bcc6894d31b014b3f65b3e9215/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nickmaukan/.gradle/caches/transforms-3/de1554bcc6894d31b014b3f65b3e9215/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nickmaukan/.gradle/caches/transforms-3/de1554bcc6894d31b014b3f65b3e9215/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nickmaukan/.gradle/caches/transforms-3/de1554bcc6894d31b014b3f65b3e9215/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nickmaukan/.gradle/caches/transforms-3/de1554bcc6894d31b014b3f65b3e9215/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nickmaukan/.gradle/caches/transforms-3/de1554bcc6894d31b014b3f65b3e9215/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nickmaukan/.gradle/caches/transforms-3/de1554bcc6894d31b014b3f65b3e9215/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nickmaukan/.gradle/caches/transforms-3/de1554bcc6894d31b014b3f65b3e9215/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nickmaukan/.gradle/caches/transforms-3/de1554bcc6894d31b014b3f65b3e9215/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nickmaukan/.gradle/caches/transforms-3/de1554bcc6894d31b014b3f65b3e9215/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nickmaukan/.gradle/caches/transforms-3/de1554bcc6894d31b014b3f65b3e9215/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nickmaukan/.gradle/caches/transforms-3/de1554bcc6894d31b014b3f65b3e9215/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nickmaukan/.gradle/caches/transforms-3/de1554bcc6894d31b014b3f65b3e9215/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nickmaukan/.gradle/caches/transforms-3/de1554bcc6894d31b014b3f65b3e9215/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nickmaukan/.gradle/caches/transforms-3/de1554bcc6894d31b014b3f65b3e9215/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nickmaukan/.gradle/caches/transforms-3/de1554bcc6894d31b014b3f65b3e9215/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nickmaukan/.gradle/caches/transforms-3/de1554bcc6894d31b014b3f65b3e9215/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nickmaukan/.gradle/caches/transforms-3/de1554bcc6894d31b014b3f65b3e9215/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nickmaukan/.gradle/caches/transforms-3/de1554bcc6894d31b014b3f65b3e9215/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nickmaukan/.gradle/caches/transforms-3/de1554bcc6894d31b014b3f65b3e9215/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
